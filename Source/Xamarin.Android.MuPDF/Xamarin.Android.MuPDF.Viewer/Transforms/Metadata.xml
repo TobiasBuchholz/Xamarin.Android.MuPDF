@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <attr path="/api/package[@name='com.artifex.mupdf.viewer']/class[@name='ReaderView']/method[@name='getAdapter' and count(parameter)=0]" name="name">Adapter</attr>
+    <attr path="/api/package[@name='com.artifex.mupdf.viewer']/class[@name='ReaderView']/method[@name='setAdapter' and count(parameter)=1 and parameter[1][@type='android.widget.Adapter']]" name="name">Adapter</attr>
+</metadata>

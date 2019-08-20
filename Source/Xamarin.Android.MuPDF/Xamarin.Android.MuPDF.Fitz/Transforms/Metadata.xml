@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-    <remove-node path="/api/package[@name='com.artifex.mupdf.fitz']/class[@name='Matrix']/method[@name='Rotate' and count(parameter)=1 and parameter[1][@type='float']]" />
-    <remove-node path="/api/package[@name='com.artifex.mupdf.fitz']/class[@name='Matrix']/method[@name='Scale' and count(parameter)=1 and parameter[1][@type='float']]" />
-    <remove-node path="/api/package[@name='com.artifex.mupdf.fitz']/class[@name='Matrix']/method[@name='Scale' and count(parameter)=2 and parameter[1][@type='float'] and parameter[2][@type='float']]" />
-    <remove-node path="/api/package[@name='com.artifex.mupdf.fitz']/class[@name='Matrix']/method[@name='Translate' and count(parameter)=2 and parameter[1][@type='float'] and parameter[2][@type='float']]" />
-</metadata>

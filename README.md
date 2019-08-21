@@ -31,7 +31,7 @@ From [mupdf.com](http://mupdf.com):
 
 #### Version 1.9.0
 If you have previously used the binding [MuPDF-for-Xamarin-Android
-](https://github.com/asimmon/MuPDF-for-Xamarin-Android) from [Anthony Simmon](https://github.com/asimmon) and you just need an update that supports 64-bit devices, you you should be good to go when you replace his nuget installation with [![v 1.9.0](https://img.shields.io/badge/nuget-v1.9.0-blue?style=flat)](https://www.nuget.org/packages/Xamarin.Android.MuPDF/1.9.0)
+](https://github.com/asimmon/MuPDF-for-Xamarin-Android) from [Anthony Simmon](https://github.com/asimmon) and you just need an [update that supports 64-bit devices](https://github.com/asimmon/MuPDF-for-Xamarin-Android/issues/5), you you should be good to go when you replace his nuget installation with [![v 1.9.0](https://img.shields.io/badge/nuget-v1.9.0-blue?style=flat)](https://www.nuget.org/packages/Xamarin.Android.MuPDF/1.9.0)
 
 
 ## Invoke the document viewer activity
